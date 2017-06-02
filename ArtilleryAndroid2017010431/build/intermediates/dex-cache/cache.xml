@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\11149e1cc336ad869c9504c357db1f94dfb8212c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61338a1995f79a81f9a329b9aaf10271e8a2f4f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d5a471a61d8923c54fdc9850aa5a9bbb33c3210e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba383cae50d6b2d3a539b824393e2e9a6011ed05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\042020ca5061380db8e1530aaaf412e48e787ab0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efe6d7ff0308eb8f31e32424bfafe96ceba68cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0ce607fcb0c81f7ef716d37ba8607d8ce6ecf145\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52d608752e41dda66cbfd0a8244d7136580c06a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_dd0899245a5f4ee34b3bb1e5f748db7f02f1e8bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\baidu_cuid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58de9ecfba229dbb2c3eb3f45dbe284ba58100ea">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidu_cuid_62d291198d5e6ef339c45fbcafce3b2ae0f7940d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\slf4j-android-1.5.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\slf4j-android-1.5.8_6e6a1c505c954af27da42878c543352a25cb378c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\tiandituapi3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46aa141a20e790e321e4150781863914c62591ee">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\tiandituapi3.0_5dae337e1e672a8c3c157178e05a8c0de60adba3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5feb40e1513b6aec857c3d1201cb78638e543fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\Baidu_Mtj_3.7.4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5819319feda13660768efde8091566a5c30c6d3c">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\Baidu_Mtj_3.7.4.5_4dc1327cef4316a827703a8403a05851f0134b59.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\GDTUnionSDK.4.9.543.min.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46051bc807bc199cf335a50ee7bf6f519a0e5889">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\GDTUnionSDK.4.9.543.min_eb0da502f877e3ce6a75dc661af9714f41e04111\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_a9ad440c2559f6a7ab24d3388a8db6feeacb4a32.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b8860553490c9ed9d57c8a1c9f29b5edb4aa22b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_479777d143d0295acac5609bab9b182cea11d618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\osmdroid-android-4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60913edd9f91f63a5106e3bfc06b2fddda657303">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\osmdroid-android-4.1_9c98ed198d080bfdbe5da425130218f5e217a069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4baec6b65149afc4f0b91a7229e85b4263000e">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a615ca59761dcf127e69765993b111cc33720a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\512fe116ae94d0651c4961407789d94a55f1e786\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4f8c771a5a4f97ba8b3c477a571190d8f692078\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\httpmime-4.1.2_6796c91c7cbde134569a1c4b8b8e17b2d3e54639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ac26b3480372ed91046ada021f723e347ca2705d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_4161c0f852dfb5ecd2092d6f5f6cc44c0a35beb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\7bb82fa07a7ccdbaa2bd63ad017eee287f42132f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_ab3cc3671f0186c3a23b530dd975b34f87619e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\IndoorscapeAlbumPlugin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11bbb392074775916fb2d41b609d513d81907852">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\IndoorscapeAlbumPlugin_49988c8aedcce890c5861cba0fc5b78d65b5e88a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\BaiduAppX_V2.4.1_20160530.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06e17590bdf84c66cd73318582b7db99d401d109">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\BaiduAppX_V2.4.1_20160530_19ce2236cdc3f295253d2e520e19154ff3772648.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\osmbonuspack_v4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb5a090c29cc3dbde769e1cc1a7b51029f8bba1">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\osmbonuspack_v4.4_deb25bdfe333c21aa0751404e6208aa754545694\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\968bc5a84feb7dab3235a9335df94f4d0c0e84b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac36244a6da7b972206411fdf83e368effecd6a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\Baidu_Mtj_3.7.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5819319feda13660768efde8091566a5c30c6d3c">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_Mtj_3.7.4.5_4dc1327cef4316a827703a8403a05851f0134b59\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0ce607fcb0c81f7ef716d37ba8607d8ce6ecf145\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_52d608752e41dda66cbfd0a8244d7136580c06a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\osmbonuspack_v4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb5a090c29cc3dbde769e1cc1a7b51029f8bba1">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\osmbonuspack_v4.4_deb25bdfe333c21aa0751404e6208aa754545694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\11149e1cc336ad869c9504c357db1f94dfb8212c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_61338a1995f79a81f9a329b9aaf10271e8a2f4f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\042020ca5061380db8e1530aaaf412e48e787ab0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_efe6d7ff0308eb8f31e32424bfafe96ceba68cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d5a471a61d8923c54fdc9850aa5a9bbb33c3210e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_ba383cae50d6b2d3a539b824393e2e9a6011ed05.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\IndoorscapeAlbumPlugin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11bbb392074775916fb2d41b609d513d81907852">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\IndoorscapeAlbumPlugin_49988c8aedcce890c5861cba0fc5b78d65b5e88a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\GDTUnionSDK.4.9.543.min.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46051bc807bc199cf335a50ee7bf6f519a0e5889">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\GDTUnionSDK.4.9.543.min_eb0da502f877e3ce6a75dc661af9714f41e04111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ac16160666a88fab5a929dc08130b3d575ab5953\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_c48306fcbd2b6e96952e336310d8e65c483c1687.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\tiandituapi3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46aa141a20e790e321e4150781863914c62591ee">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\tiandituapi3.0_5dae337e1e672a8c3c157178e05a8c0de60adba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_e5feb40e1513b6aec857c3d1201cb78638e543fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\slf4j-android-1.5.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\slf4j-android-1.5.8_6e6a1c505c954af27da42878c543352a25cb378c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9ad440c2559f6a7ab24d3388a8db6feeacb4a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8cfd8c9a395f56b1d5de69f189a11082d0246e83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ad90636f2c3d89d386feb3fa6a4e7d47513f1dcc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd7aaf8fb161e2c86d2f653be4044532f6ce77ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\httpmime-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.2_6796c91c7cbde134569a1c4b8b8e17b2d3e54639\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\osmdroid-android-4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60913edd9f91f63a5106e3bfc06b2fddda657303">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\osmdroid-android-4.1_9c98ed198d080bfdbe5da425130218f5e217a069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\512fe116ae94d0651c4961407789d94a55f1e786\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_b4f8c771a5a4f97ba8b3c477a571190d8f692078.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ac16160666a88fab5a929dc08130b3d575ab5953\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c48306fcbd2b6e96952e336310d8e65c483c1687\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\androidSDKDemos30\libs\tiandituapi3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="46aa141a20e790e321e4150781863914c62591ee">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\androidSDKDemos30\build\intermediates\pre-dexed\debug\tiandituapi3.0_f4d4eee92b73944488a735ac91992a507eddcf34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\baidu_cuid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58de9ecfba229dbb2c3eb3f45dbe284ba58100ea">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\baidu_cuid_62d291198d5e6ef339c45fbcafce3b2ae0f7940d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ac26b3480372ed91046ada021f723e347ca2705d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4161c0f852dfb5ecd2092d6f5f6cc44c0a35beb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_dd0899245a5f4ee34b3bb1e5f748db7f02f1e8bf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7bb82fa07a7ccdbaa2bd63ad017eee287f42132f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab3cc3671f0186c3a23b530dd975b34f87619e00\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\968bc5a84feb7dab3235a9335df94f4d0c0e84b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_ac36244a6da7b972206411fdf83e368effecd6a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidapp\ArtilleryAndroid2017010431\app\libs\BaiduAppX_V2.4.1_20160530.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06e17590bdf84c66cd73318582b7db99d401d109">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduAppX_V2.4.1_20160530_19ce2236cdc3f295253d2e520e19154ff3772648\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\b8860553490c9ed9d57c8a1c9f29b5edb4aa22b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\androidapp\ArtilleryAndroid2017010431\app\build\intermediates\pre-dexed\release\classes_479777d143d0295acac5609bab9b182cea11d618.jar" />
+    </item>
+
+</items>

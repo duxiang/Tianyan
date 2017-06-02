@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tianditu.sdkDemo"
+    android:versionCode="1"
+    android:versionName="3.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" >
+    </uses-permission>
+
+    <application
+        android:name="com.tianditu.sdkDemo.SDKDemoApp"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black" >
+        <activity
+            android:name="com.tianditu.sdkDemo.SDKDemoMain"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 地图显示&操作 -->
+        <activity
+            android:name="com.tianditu.sdkDemo.MapViewDemo"
+            android:description="@string/groupkey0"
+            android:label="@string/mapviewdemo" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.MapLayerDemo"
+            android:description="@string/groupkey0"
+            android:label="@string/maplayerdemo" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.MapControllDemo"
+            android:configChanges="keyboardHidden"
+            android:description="@string/groupkey0"
+            android:label="@string/mapcontrolldemo"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.MapProjectionDemo"
+            android:configChanges="keyboardHidden"
+            android:description="@string/groupkey0"
+            android:label="@string/mapprojectdemo"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.MapCustomSourceDemo"
+            android:configChanges="keyboardHidden"
+            android:description="@string/groupkey0"
+            android:label="自定义数据源"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 覆盖物 -->
+        <activity
+            android:name="com.tianditu.sdkDemo.MyLocationDemo"
+            android:description="@string/groupkey1"
+            android:label="@string/mylocationdemo"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.OverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/overlaydemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.ItemizedOverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/itemizedoverlaydemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.MarkerOverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/overlaymarkerdemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.TextOverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/overlaytextdemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.GeometryOverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/overlaygeometrydemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 离线地图 -->
+        <activity
+            android:name="com.tianditu.sdkDemo.OfflineMapDemoList"
+            android:configChanges="keyboardHidden|navigation|orientation"
+            android:description="@string/groupkey2"
+            android:label="@string/offlinemapdemolist"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 搜索&规划 -->
+        <activity
+            android:name="com.tianditu.sdkDemo.PoiSearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/poisearchdemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.GeoDecodeDemo"
+            android:configChanges="keyboardHidden|navigation|orientation"
+            android:description="@string/groupkey3"
+            android:label="@string/geodecodedemo"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.BusStationIDSearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/busstationidsearchdemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.BusLineIDSearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/buslineidsearchdemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.BusLineKeySearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/buslinekeysearchdemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.DrivingDemo"
+            android:description="@string/groupkey3"
+            android:label="@string/drivingdemo" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.TransitSearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/transitsearchdemo"
+            android:screenOrientation="sensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 其它 -->
+        <!-- test -->
+        <activity
+            android:name="com.tianditu.sdkDemo.ActivityLogoDemo"
+            android:description="@string/groupkey4"
+            android:label="Logo位置" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tianditu.sdkDemo.ActivitySimulateGpsDemo"
+            android:description="@string/groupkey4"
+            android:label="定位(模拟信号)" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

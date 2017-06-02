@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\moreinfo_arrow.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\moreinfo_arrow.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\moreinfo_arrow_pressed.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\moreinfo_arrow_pressed.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\jy901.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\jy901.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\jyzk.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\jyzk.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\em.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\em.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\bonuspack_bubble.9.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\bonuspack_bubble.9.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\mpu6050.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\mpu6050.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\prog.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable-mdpi\\prog.png"
+    }
+]

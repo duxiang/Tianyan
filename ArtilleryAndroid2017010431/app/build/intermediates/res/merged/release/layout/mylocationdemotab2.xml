@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout02"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:text="显示信息"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewxianshixinxi"
+            android:textSize="10sp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <CheckBox
+                android:text="时间"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/checkShijian"
+                android:layout_weight="1"
+                android:checked="true"
+                android:textSize="10sp" />
+
+            <CheckBox
+                android:text="精度"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/checkJingdu"
+                android:layout_weight="1"
+                android:checked="true"
+                android:textSize="10sp" />
+
+            <CheckBox
+                android:text="方向"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/checkFangxiang"
+                android:layout_weight="1"
+                android:checked="true"
+                android:textSize="10sp" />
+
+            <CheckBox
+                android:text="速度"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/checkSudu"
+                android:layout_weight="1"
+                android:checked="true"
+                android:textSize="10sp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:text="选择坐标系"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewzuobiaoxixuznxe"
+            android:layout_weight="1"
+            android:textSize="10sp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:id="@+id/radioGroupzuobiaoxi">
+
+                <RadioButton
+                    android:text="北京54"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/radioButtonbeijing54"
+                    android:layout_weight="1"
+                    android:textSize="10sp" />
+
+                <RadioButton
+                    android:text="西安80"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/radioButtonxian80"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:textSize="10sp" />
+
+                <RadioButton
+                    android:text="WGS84"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/radioButtonwgs84"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:textSize="10sp" />
+
+                <RadioButton
+                    android:text="大地2000"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/radioButtondadi2000"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:textSize="10sp" />
+
+            </RadioGroup>
+        </LinearLayout>
+
+        <TextView
+            android:text="偏移量设置"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewpianyiliang"
+            android:textSize="10sp" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+                android:id="@+id/radioGroupFendudai">
+
+                <RadioButton
+                    android:id="@+id/radioButton6du"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:text="6度带"
+                    android:textSize="10sp" />
+
+                <RadioButton
+                    android:id="@+id/radioButton3du"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="3度带"
+                    android:textSize="10sp" />
+
+
+            </RadioGroup>
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+                android:id="@+id/radioGroupShoudongjingdu">
+
+                <RadioButton
+                    android:id="@+id/radioButtonZidongzhongyangjingdu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:text="自动中央经线"
+                    android:textSize="10sp" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonShoudongzhongyangjingdu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="手动中央经线"
+                    android:textSize="10sp" />
+
+
+            </RadioGroup>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textViewZhongyangjingdu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="手动中央经线经度"
+                android:textSize="10sp" />
+
+            <EditText
+                android:id="@+id/editTextZhongyangjingdu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="numberSigned|numberDecimal"
+                android:text="0"
+                android:textSize="10sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="X偏移"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewXiuzhengX"
+                android:layout_weight="1"
+                android:textSize="10sp" />
+
+            <EditText
+                android:id="@+id/editTextXiuZhengX"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="numberSigned|numberDecimal"
+                android:text="0"
+                android:textSize="10sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textViewXiuzhengY"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Y偏移"
+                android:textSize="10sp" />
+
+            <EditText
+                android:id="@+id/editTextXiuZhengY"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="numberSigned|numberDecimal"
+                android:text="0"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="H偏移"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewXiuZhengH"
+                android:layout_weight="1"
+                android:textSize="10sp" />
+
+            <EditText
+                android:id="@+id/editTextXiuZhengH"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="numberSigned|numberDecimal"
+                android:text="0"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="设置离线地图"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/button25lixianditu"
+                android:layout_weight="1"
+                android:textSize="14sp"
+                android:minHeight="0dp" />
+
+            <Button
+                android:id="@+id/button22shezhizuobiaoxi"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:minHeight="0dp"
+                android:text="设置、保存并使用偏移量"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textViewTips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin"
+            android:text="提示信息"
+            android:textSize="10sp">
+        </TextView>
+
+    </LinearLayout>
+
+</ScrollView>

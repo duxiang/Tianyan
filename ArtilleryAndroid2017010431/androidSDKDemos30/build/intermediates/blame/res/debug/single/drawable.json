@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_locate_sel.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\btn_locate_sel.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_overlay_turn_sel.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_overlay_turn_sel.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\poi_xml.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\poi_xml.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_background.9.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_background.9.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_route_start.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_route_start.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_busroute_change_bus.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_busroute_change_bus.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_busroute_change_walk.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_busroute_change_walk.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\poiresult_sel.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\poiresult_sel.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_route_mid.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_route_mid.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_overlay_turn.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_overlay_turn.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\pop.9.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\pop.9.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_route_end.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_route_end.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bus_station.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_bus_station.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\tips_arrow.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\tips_arrow.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_busroute_change_sub.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_busroute_change_sub.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_overlay_nearby_center.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\icon_overlay_nearby_center.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\build\\intermediates\\res\\merged\\debug\\drawable\\poiresult.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\androidSDKDemos30\\src\\main\\res\\drawable\\poiresult.png"
+    }
+]

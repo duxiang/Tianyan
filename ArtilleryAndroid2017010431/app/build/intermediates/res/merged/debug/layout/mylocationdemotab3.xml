@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout03"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin"
+            android:text="经纬度或坐标定位"
+            android:id="@+id/TextViewzuobiaoleixing"
+            android:textSize="10sp">
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/editTextLon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:hint="经度"
+                android:textSize="10sp">
+            </EditText>
+
+            <EditText
+                android:id="@+id/editTextLat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:hint="纬度"
+                android:textSize="10sp">
+            </EditText>
+
+            <Button
+                android:id="@+id/buttonJingweidingdian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="经纬定点"
+                android:textSize="10sp"
+                android:minHeight="0dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/editTextdingdianX"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:hint="坐标X"
+                android:textSize="10sp">
+            </EditText>
+
+            <EditText
+                android:id="@+id/editTextdingdianY"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:hint="坐标Y"
+                android:textSize="10sp">
+            </EditText>
+
+            <Button
+                android:id="@+id/buttonZuobiaodingdian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="坐标定点"
+                android:textSize="10sp"
+                android:minHeight="0dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/buttonList"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="搜索结果"
+                android:textSize="10sp" />
+
+            <EditText
+                android:id="@+id/editKey"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:hint="输入地名"
+                android:singleLine="true"
+                android:textSize="10sp"
+                android:layout_gravity="center_vertical" />
+
+            <Button
+                android:id="@+id/buttonSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="地名搜索"
+                android:textSize="10sp">
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <Button
+                android:id="@+id/buttonType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="搜索方式">
+            </Button>
+
+            <Button
+                android:id="@+id/buttonPre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="上一个" />
+
+            <Button
+                android:id="@+id/buttonNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="下一个" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/checkHuahangji"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+
+                android:text="规划路线"
+                android:textSize="10sp" />
+
+            <CheckBox
+                android:id="@+id/checkXianshiluxian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:text="显示路线"
+
+
+                android:textSize="10sp"
+
+                />
+
+            <Button
+                android:id="@+id/buttontuiyibu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:minHeight="0dp"
+                android:text="退步"
+                android:textSize="10sp" />
+
+
+            <TextView
+                android:id="@+id/textView52"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+
+                android:minHeight="0dp"
+                android:text="路线编号"
+                android:textSize="10sp" />
+
+            <Spinner
+                android:id="@+id/spinnerhuizhiluxian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.1"
+
+                android:entries="@array/hangjibianhao"
+                android:textSize="10sp" />
+
+            <Button
+                android:id="@+id/buttonCunchuluxian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+
+                android:minHeight="0dp"
+                android:text="存储路线"
+                android:textSize="10sp" />
+
+            <Button
+                android:id="@+id/buttonDuquluxian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+
+                android:minHeight="0dp"
+                android:text="读取路线"
+                android:textSize="10sp" />
+
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/textViewTipsdizhixinxi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin"
+            android:text="提示信息"
+            android:textSize="10sp">
+        </TextView>
+        <TextView
+            android:id="@+id/textViewDituliangsuanxinxi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin"
+            android:text="地图量算信息"
+            android:textSize="10sp">
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>

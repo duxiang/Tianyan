@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天眼</string>
+    <string name="shezhi">各项设置</string>
+    <string name="action_settings">保留功能</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="Zuobiaoximingcheng">
+        <item>北京54</item>
+        <item>西安80</item>
+        <item>WGS84</item>
+        <item>大地2000</item>
+
+    </string-array>
+    <string-array name="hangjibianhao">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="chengguobianhao">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="danzhongleixing">
+        <item>152增程弹</item>
+        <item>122增程弹</item>
+        <item>122照明弹</item>
+        <item>152电磁悬浮侦察弹</item>
+    </string-array>
+    <string-array name="weizhileixing">
+        <item>静止目标</item>
+        <item>实有阻击点</item>
+        <item>测速起点</item>
+        <item>测速终点</item>
+        <item>运动起点</item>
+        <item>炸点1</item>
+        <item>炸点2</item>
+        <item>炸点3</item>
+        <item>炸点4</item>
+        <item>炸点5</item>
+        <item>炸点6</item>
+        <item>炸点7</item>
+        <item>炸点8</item>
+        <item>炸点9</item>
+        <item>炸点10</item>
+    </string-array>
+    <string-array name="yingbianzhi">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="lianbianzhi">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="paobianzhi">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <!-- BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">你没有连接到一个设备</string>
+    <string name="bt_not_enabled_leaving">蓝牙未被打开</string>
+    <string name="title_connecting">正在连接...</string>
+    <string name="title_connected_to">已连接: </string>
+    <string name="title_not_connected">断开</string>
+
+    <!-- DeviceListActivity -->
+    <string name="scanning">搜索设备...</string>
+    <string name="select_device">选择一个设备</string>
+    <string name="none_paired">无已经匹配的设备</string>
+    <string name="none_found">未发现设备</string>
+    <string name="title_paired_devices">已匹配的设备</string>
+    <string name="title_other_devices">其他可匹配的设备</string>
+    <string name="button_scan">搜索设备</string>
+
+    <!-- Options Menu -->
+    <string name="connect">连接设备</string>
+    <string name="discoverable">使设备可访问</string>
+    <string name="main_textview">0.00</string>
+    <string name="shop_name">ArtilleryAndroid</string>
+  
+    <string name="ble_not_supported">不支持BLE</string>
+    <string name="label_data">数据:</string>
+    <string name="label_device_address">设备物理地址:</string>
+    <string name="label_state">状态:</string>
+    <string name="no_data">无数据</string>
+    <string name="connected">已发现激光测距机</string>
+    <string name="disconnected">未发现激光测距机</string>
+    <string name="title_devices">BLE设备扫描</string>
+    <string name="error_bluetooth_not_supported">不支持蓝牙.</string>
+
+    <string name="unknown_device">不明设备</string>
+    <string name="unknown_characteristic">不明特征码</string>
+    <string name="unknown_service">不明服务</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">连接</string>
+    <string name="menu_disconnect">未连接</string>
+    <string name="menu_scan">扫描</string>
+    <string name="menu_stop">停止</string>
+
+
+    <string name="title_activity_maindemo">广点通：结盟而赢</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="gdtslogan">GDTslogan</string>
+    <string name="click_to_skip">点击跳过</string>
+    <string name="title_activity_banner">广点通：横幅广告</string>
+    <string name="title_activity_interstitial_ad">广点通：插屏广告</string>
+    <string name="title_nativead">广点通：原生广告</string>
+    <string name="title_activity_gdtnative_video_ad">原生视频广告-ListView示例</string>
+    <string name="title_activity_native_video_demo">原生视频广告-基本示例</string>
+    <string name="title_activity_native_video_ad">原生视频广告接入示例</string>
+    <string name="title_activity_native_video_recycler_view">原生视频广告-RecyclerView示例</string>
+    <string name="title_activity_native_video_scroll_view">原生视频广告-ScrollView示例</string>
+    <string name="title_activity_native_video_pre_movie">原生视频广告-前贴片示例</string>
+    <!-- 地图显示&操作 -->
+    <string name="groupkey0">电子地图设置准备</string>
+    <string name="mapviewdemo">地图显示类型设置（二维矢量图、卫星影像图、地形图）</string>
+    <string name="maplayerdemo">地图图层显示设置（地名、水系、铁路）</string>
+    <string name="mapcontrolldemo">地图地域显示设置（显示地域、显示幅员、显示视角）</string>
+    <string name="mapprojectdemo">地图投影设置（地图位置与屏幕对应关系）</string>
+
+    <!-- 覆盖物 -->
+    <string name="groupkey1">定位与标注作业</string>
+    <string name="mylocationdemo">定位</string>
+    <string name="overlaydemo">标注</string>
+    <string name="itemizedoverlaydemo">标注集合</string>
+    <string name="overlaymarkerdemo">图像标注</string>
+    <string name="overlaytextdemo">文本注记</string>
+    <string name="overlaygeometrydemo">几何形状标注</string>
+
+    <!-- 离线地图 -->
+    <string name="groupkey2">离线地图管理</string>
+    <string name="offlinemapdemolist">离线地图包列表</string>
+
+    <!-- 搜索&规划 -->
+    <string name="groupkey3">搜索&amp;规划</string>
+    <string name="poisearchdemo">关键字搜索</string>
+    <string name="geodecodedemo">逆地理编码</string>
+    <string name="busstationidsearchdemo">公交站点ID搜索</string>
+    <string name="buslineidsearchdemo">公交线路ID搜索</string>
+    <string name="buslinekeysearchdemo">公交线路关键字搜索</string>
+    <string name="drivingdemo">自驾规划</string>
+    <string name="transitsearchdemo">公交规划</string>
+
+    <!-- 其它 -->
+    <string name="groupkey4">其它设置</string>
+
+    <!-- activitylogodemo -->
+    <string name="activitylogodemo_logo">logo位置设置</string>
+    <string name="activitylogodemo_left_top">左上</string>
+    <string name="activitylogodemo_left_bottom">左下</string>
+    <string name="activitylogodemo_right_top">右上</string>
+    <string name="activitylogodemo_right_bottom">右下</string>
+    <string name="activitylogodemo_showzoomcontorls">显示缩放控件</string>
+    <string name="activitylogodemo_drawoverlaywhenzooming">缩放时绘制标注</string>
+
+    <!-- 辅助功能工具栏 -->
+    <string name="open">打开辅助功能</string>
+    <string name="close">关闭辅助功能</string>
+
+    <!-- osm地图种类 -->
+    <string-array name="OSMmaptype">
+        <item>卫星影像图</item>
+
+        <item>平面矢量图</item>
+        <item>等高线地形图</item>
+    </string-array>
+<!--    y.MAPNIK);
+DEFAULT_TILE_SOURCE
+                  mapView.setTileSource(TileSourceFactory.HILLS);
+                mapView.setTileSource(TileSourceFactory.TOPO);
+                mapView.setTileSource(TileSourceFactory.PUBLIC_TRANSPORT);
+                mapView.setTileSource(TileSourceFactory.BASE);
+                mapView.setTileSource(TileSourceFactory.BASE_OVERLAY_NL);
+                mapView.setTileSource(TileSourceFactory.CLOUDMADESMALLTILES);
+                mapView.setTileSource(TileSourceFactory.CLOUDMADESTANDARDTILES);
+                mapView.setTileSource(TileSourceFactory.CYCLEMAP);
+                mapView.setTileSource(TileSourceFactory.FIETS_OVERLAY_NL);
+                mapView.setTileSource(TileSourceFactory.MAPNIK);
+                mapView.setTileSource(TileSourceFactory.MAPQUESTAERIAL);
+                mapView.setTileSource(TileSourceFactory.MAPQUESTOSM);
+                mapView.setTileSource(TileSourceFactory.ROADS_OVERLAY_NL);;-->
+</resources>

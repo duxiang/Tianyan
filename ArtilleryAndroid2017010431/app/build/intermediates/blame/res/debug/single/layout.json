@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylocationdemotab5.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mylocationdemotab5.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhuyuanjisuan.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\zhuyuanjisuan.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offlinemapview.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\offlinemapview.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menujibenyunsuan2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\menujibenyunsuan2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhengyunsuan2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\zhengyunsuan2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhengjiao1114.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\zhengjiao1114.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offlinemapdemolist.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\offlinemapdemolist.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activitylogodemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\activitylogodemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylocationdemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mylocationdemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poisearchdemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\poisearchdemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\laserbt.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\laserbt.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylocationdemotab4.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mylocationdemotab4.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag1.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\frag1.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\markeroverlaydemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\markeroverlaydemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overlaydemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\overlaydemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapprojectiondemotab2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mapprojectiondemotab2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapcontrolldemotab3.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mapcontrolldemotab3.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menumain2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\menumain2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemizedoverlaydemotab2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\itemizedoverlaydemotab2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geometryoverlaydemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\geometryoverlaydemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylocationdemotab6.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mylocationdemotab6.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylocationdemotab3.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mylocationdemotab3.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buslinekeysearchdemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\buslinekeysearchdemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popview.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\popview.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buslineidsearchdemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\buslineidsearchdemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sanbian1113.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\sanbian1113.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shuangguan1115.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\shuangguan1115.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sandianhoufang111a.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\sandianhoufang111a.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemizedoverlaydemotab1.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\itemizedoverlaydemotab1.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buzhujixian1117.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\buzhujixian1117.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\liangdianhoufang1118.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\liangdianhoufang1118.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toolbar.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\custom_toolbar.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transitsearch.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\transitsearch.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\osmmap.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\osmmap\\layout\\osmmap.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapcontrolldemotab2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mapcontrolldemotab2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tiandituhelplayout.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\tiandituhelplayout.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylocationdemotab1.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mylocationdemotab1.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daoxianfa1119.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\daoxianfa1119.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drivingdemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\drivingdemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gpsbak.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\gpsbak.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylocationdemotab2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mylocationdemotab2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhendi.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\zhendi.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\busstationidsearchdemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\busstationidsearchdemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhengjiaobak1114.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\zhengjiaobak1114.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offlinemapdemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\offlinemapdemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapcontrolldemotab1.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mapcontrolldemotab1.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapcontrolldemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mapcontrolldemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gpsuav.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\gpsuav.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapprojectiondemotab1.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mapprojectiondemotab1.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datalist.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\datalist.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\osmbuddle.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\osmmap\\layout\\osmbuddle.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapprojectiondemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\mapprojectiondemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textoverlaydemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\textoverlaydemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geodecodedemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\geodecodedemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemizedoverlaydemo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\tianditu\\layout\\itemizedoverlaydemo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\niyunsuan2.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\niyunsuan2.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dandiangaocheng1116.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\dandiangaocheng1116.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\Layouts\\old\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\beijing.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_single_item.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\preference_single_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help11.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help11.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_background.9.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_background.9.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help8.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help8.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_busroute_change_bus.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_busroute_change_bus.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weixing.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\weixing.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poiresult_sel.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\poiresult_sel.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_route_end.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_route_end.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\background_button.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help9.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help9.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_locate_sel.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\btn_locate_sel.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anniuguaren.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\anniuguaren.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poiresult.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\poiresult.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help10.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help10.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help2.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help2.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redaimer.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\redaimer.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_overlay_turn_sel.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_overlay_turn_sel.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help4.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help4.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help1.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help1.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_route_start.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_route_start.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_circle.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\background_circle.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poi_xml.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\poi_xml.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help12.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help12.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help7.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help7.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bus_station.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_bus_station.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help5.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help5.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_route_mid.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_route_mid.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_busroute_change_sub.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_busroute_change_sub.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gdt_splash_logo.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\gdt_splash_logo.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_overlay_nearby_center.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_overlay_nearby_center.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_moreinfo.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\btn_moreinfo.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_overlay_turn.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_overlay_turn.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tips_arrow.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\tips_arrow.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help6.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help6.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help3.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\help3.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\de241f5d6901161b3b5a784a91a5865fc8d5ddf8\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_busroute_change_walk.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\icon_busroute_change_walk.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anniuwurenji.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\anniuwurenji.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anniujiguangcejuji.jpg",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\anniujiguangcejuji.jpg"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_right.xml",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\title_btn_right.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop.9.png",
+        "source": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\src\\main\\res\\drawable\\pop.9.png"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cec2e81a3416c4643bc7fd78f77e4db4ccab27ff\\output\\res\\drawable\\abc_vector_test.xml"
+    }
+]

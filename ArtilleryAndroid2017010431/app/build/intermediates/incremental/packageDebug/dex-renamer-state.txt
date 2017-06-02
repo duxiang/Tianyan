@@ -1,0 +1,7 @@
+#Sun May 21 10:53:05 CST 2017
+base.0=E\:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8cfd8c9a395f56b1d5de69f189a11082d0246e83
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a615ca59761dcf127e69765993b111cc33720a88\\classes.dex
+base.1=E\:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a615ca59761dcf127e69765993b111cc33720a88
+file.0=E\:\\androidapp\\ArtilleryAndroid2017010431\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8cfd8c9a395f56b1d5de69f189a11082d0246e83\\classes.dex

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <org.osmdroid.views.MapView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/osmmapview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:visibility="visible"></org.osmdroid.views.MapView>
+
+    <ImageButton
+        android:id="@+id/map"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/locate"
+        android:background="#00000000"
+        android:src="@drawable/map"
+        android:visibility="visible" />
+
+    <ImageButton
+        android:id="@+id/clear"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/compass_needle"
+        android:layout_marginTop="14dp"
+        android:background="#00000000"
+        android:src="@drawable/clear"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/compass_needle"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        android:src="@drawable/compass_needle"
+        android:visibility="gone" />
+
+    <Spinner
+        android:id="@+id/spinnerosmmaotype"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/map"
+        android:layout_toRightOf="@+id/map"
+        android:entries="@array/OSMmaptype" />
+
+    <ImageButton
+        android:id="@+id/zoom_in"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="7dp"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        android:src="@drawable/zoom_in"
+        android:visibility="visible" />
+
+    <ImageButton
+        android:id="@+id/zoom_out"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/zoom_in"
+        android:layout_alignLeft="@+id/zoom_in"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        android:src="@drawable/zoom_out"
+        android:visibility="visible" />
+
+    <ImageButton
+        android:id="@+id/search"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignRight="@+id/osmmapview"
+        android:layout_alignTop="@+id/osmmapview"
+        android:layout_toRightOf="@+id/compass_needle"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        android:src="@drawable/search"
+        android:visibility="visible" />
+
+    <ImageButton
+        android:id="@+id/caculate"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/search"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="12dp"
+        android:background="#00000000"
+        android:src="@drawable/caculate"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/corrections"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="14dp"
+        android:layout_toRightOf="@+id/caculate"
+        android:background="#00000000"
+        android:src="@drawable/corrections"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/locate"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/zoom_in"
+        android:background="#00000000"
+        android:src="@drawable/locate"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/textViewOSMxinxi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/search"
+        android:text="定位信息"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

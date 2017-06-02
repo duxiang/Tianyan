@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearZuobiaoxiuzheng"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewJibenzuobiaoxi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="原坐标系："
+        android:textSize="10sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editTextYuanX"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="原坐标系X"
+            android:inputType="numberSigned|numberDecimal"
+            android:textSize="10sp" />
+
+        <EditText
+            android:id="@+id/editTextYuanY"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="原坐标系Y"
+            android:inputType="numberSigned|numberDecimal"
+            android:textSize="10sp" />
+
+
+        <EditText
+            android:id="@+id/editTextYuanH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="原坐标系H"
+            android:inputType="numberSigned|numberDecimal"
+            android:textSize="10sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonduquweizhi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:minHeight="0dp"
+            android:text="读取当前定位坐标"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/buttonduqutushang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:minHeight="0dp"
+            android:text="读取图上量取坐标"
+            android:textSize="10sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editTextXianX"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="目标坐标系X"
+            android:inputType="numberSigned|numberDecimal"
+            android:textSize="10sp" />
+
+        <EditText
+            android:id="@+id/editTextXianY"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="目标坐标系Y"
+            android:inputType="numberSigned|numberDecimal"
+            android:textSize="10sp" />
+
+
+        <EditText
+            android:id="@+id/editTextXianH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="目标坐标系H"
+            android:inputType="numberSigned|numberDecimal"
+            android:textSize="10sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonjisuanbuxiaxiuzheng"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:minHeight="0dp"
+            android:text="计算新坐标修正量"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewbujiaxinxi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="新坐标修正量"
+        android:textSize="10sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonXinxiuzheng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:minHeight="0dp"
+            android:text="保存新坐标修正量"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:background="@color/colorPrimary"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:onClick="Clickzuozhe1"
+            >
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/anniuguaren"
+               />
+
+            <TextView
+                android:id="@+id/textView54"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="访问程序作者(寡人就是朕)的微博主页"
+                android:textSize="10sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:onClick="Clickzingto1">
+
+            <Button
+                android:id="@+id/button24"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/anniuwurenji"
+               />
+
+            <TextView
+                android:id="@+id/textView56"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:singleLine="false"
+                android:text="河北翔拓航空科技公司(无人机研发、培训)"
+                android:textSize="10sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="Clickliaowang1">
+
+            <Button
+                android:id="@+id/button25"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/anniujiguangcejuji"
+                android:onClick="Clickliaowang1" />
+
+            <TextView
+                android:id="@+id/textView57"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="false"
+                android:text="天津瞭望光电科技公司 (激光测距、红外成像)"
+                android:textSize="10sp" />
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>

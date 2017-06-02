@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout05"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+
+        <TextView
+            android:text="未选择激光测距机"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewCejujilianjiezhuangtai"
+            android:layout_weight="1.0"
+            android:textSize="10sp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+            <Button
+                android:text="选择激光测距机"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonJiguang"
+                android:layout_weight="1"
+                android:textSize="10sp"
+                android:minHeight="24dip"
+                android:minWidth="24dip" />
+
+            <TextView
+                android:text="激光测距机未选择"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewCejujixuanze"
+                android:layout_weight="1"
+                android:textSize="10sp" />
+
+            <Button
+                android:text="连接激光测距机"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonlaserlianjie"
+                android:layout_weight="1"
+                android:minHeight="24dip"
+                android:minWidth="24dip"
+                android:textSize="10sp" />
+
+            <TextView
+                android:text="激光测距机未连接"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewCejujilianjie"
+                android:layout_weight="1"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_weight="1.0">
+
+            <Button
+                android:text="连接方向陀螺仪"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonTuoluoyi"
+                android:layout_weight="1"
+                android:textSize="10sp"
+                android:minHeight="24dip" />
+
+            <TextView
+                android:text="方向陀螺仪未连接"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewFangxiangtuoluoyilianjiezhuangtai"
+                android:layout_weight="1"
+                android:textSize="10sp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:text="陀螺仪当前坐标方位角（密位）："
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewDangqiznzuobiaofangweijiao"
+            android:layout_weight="1.0"
+            android:textSize="10sp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+            <TextView
+                android:text="陀螺仪预设坐标方位角（密位）："
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewYushefangweijiao"
+                android:layout_weight="1"
+                android:textSize="10sp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="numberSigned|numberDecimal"
+                android:ems="10"
+                android:id="@+id/editTextyushefangweijiao"
+                android:layout_weight="1"
+                android:textSize="10sp"
+                android:text="0" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+            <Button
+                android:text="方位立即按预设数值标定"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonlijibiaoding"
+                android:layout_weight="1"
+                android:textSize="10sp"
+                android:minHeight="24dip" />
+
+            <Button
+                android:id="@+id/buttoncejubiaoding"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:minHeight="24dip"
+                android:text="下次测距成功时方位按预设数值标定"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textViewCejuxinxi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin"
+            android:text="激光测距信息"
+            android:textSize="10sp">
+        </TextView>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="Name"
+            android:ems="10"
+            android:id="@+id/data_valuelaser"
+            android:layout_weight="1.0"
+            android:textSize="10sp"
+            android:visibility="gone" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="Name"
+            android:ems="10"
+            android:id="@+id/edittext_input_valuelaser"
+            android:layout_weight="1.0"
+            android:textSize="10sp"
+            android:visibility="gone" />
+
+        <Chronometer
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/chronometerdingshichonglian"
+            android:layout_weight="1.0"
+            android:textSize="10sp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</ScrollView>

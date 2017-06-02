@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.artilleryandroid"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+
+        >
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="chgMbrD5h2tzBFht23ilZtzMWbEqmioH" />
+        <!-- 声明SDK所需要的组件android:value="79xA8A65mU7eQszCPqfktTsXDyf2V0yU" -->
+        <service
+            android:name="com.qq.e.comm.DownloadService"
+            android:exported="false" />
+        <!-- 请开发者注意字母的大小写，ADActivity，而不是AdActivity -->
+        <activity
+            android:name="com.qq.e.ads.ADActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+
+            >
+
+        </activity>
+        <activity
+            android:name=".Menuofmian"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".old.Menujiben"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Zhengyunsuan"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Niyunsuan1112"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Sanbian1113"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Zhengjiao1114"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Shuangguan1115"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Dandiangaocheng1116"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Buzhujixian1117"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Liangdianhoufang1118"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Daoxianfa1119"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Sandianhoufang111a"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".jibenyunsuan.Zhuyuanjisuan"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustPan"></activity>
+
+        <activity
+            android:name=".old.DataMonitor"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="阵地检查"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light"></activity>
+        <activity
+            android:name=".old.DataMonitor222"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="阵地检查"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light"></activity>
+        <activity
+            android:name=".old.DeviceListActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/select_device"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".sdkDemo.DeviceListActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/select_device"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".sdkDemo.SDKDemoMain"
+            android:label="@string/shezhi">
+
+            <!--
+           <intent-filter>
+           &lt;!&ndash;   <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />&ndash;&gt;
+            </intent-filter>
+            -->
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            -->
+
+        </activity>
+        <!-- 地图显示&操作 -->
+
+        <activity
+            android:name=".sdkDemo.MapControllDemo"
+            android:configChanges="keyboardHidden"
+            android:description="@string/groupkey0"
+            android:label="@string/mapcontrolldemo"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.MapProjectionDemo"
+            android:configChanges="keyboardHidden"
+            android:description="@string/groupkey0"
+            android:label="@string/mapprojectdemo"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- 覆盖物 -->
+        <activity
+            android:name=".sdkDemo.MyLocationDemo"
+            android:description="@string/groupkey1"
+            android:label="@string/shezhi"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.OverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/overlaydemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.ItemizedOverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/itemizedoverlaydemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.MarkerOverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/overlaymarkerdemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.TextOverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/overlaytextdemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.GeometryOverlayDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey1"
+            android:label="@string/overlaygeometrydemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 离线地图 -->
+        <activity
+            android:name=".sdkDemo.OfflineMapDemo"
+            android:configChanges="keyboardHidden|navigation|orientation"
+            android:description="@string/groupkey2"
+            android:label="@string/offlinemapdemolist"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.OfflineMapDemoList"
+            android:configChanges="keyboardHidden|navigation|orientation"
+            android:description="@string/groupkey2"
+            android:label="@string/offlinemapdemolist"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 搜索&规划 -->
+        <activity
+            android:name=".sdkDemo.PoiSearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/poisearchdemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.GeoDecodeDemo"
+            android:configChanges="keyboardHidden|navigation|orientation"
+            android:description="@string/groupkey3"
+            android:label="@string/geodecodedemo"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.BusStationIDSearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/busstationidsearchdemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.BusLineIDSearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/buslineidsearchdemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.DeviceScanActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/buslineidsearchdemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.BusLineKeySearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/buslinekeysearchdemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.DrivingDemo"
+            android:description="@string/groupkey3"
+            android:label="@string/drivingdemo">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.TransitSearchDemo"
+            android:configChanges="orientation|keyboardHidden"
+            android:description="@string/groupkey3"
+            android:label="@string/transitsearchdemo"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 其它 -->
+        <!-- test -->
+        <activity
+            android:name=".sdkDemo.ActivityLogoDemo"
+            android:description="@string/groupkey4"
+            android:label="Logo位置设置">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sdkDemo.ActivitySimulateGpsDemo"
+            android:description="@string/groupkey4"
+            android:label="定位(模拟信号)">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".sdkDemo.BluetoothLeService"
+            android:enabled="true" />
+        <service
+            android:name=".old.BluetoothLeService"
+            android:enabled="true" />
+        <!-- 注册SDK的activity -->
+        <!--
+            <activity
+            android:name="com.baidu.appx.uikit.BDActivity"
+            android:configChanges="orientation|screenSize" >
+        </activity>
+        <receiver android:name="com.baidu.appx.app_download.CompleteReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+                <action android:name="android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        -->
+        <activity
+            android:name="com.baidu.appx.uikit.BDActivity"
+            android:configChanges="orientation|screenSize"></activity>
+
+        <receiver android:name="com.baidu.appx.app_download.CompleteReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+                <action android:name="android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".Tiandituhelp"
+            android:label="@string/title_activity_tiandituhelp"></activity>
+
+        <activity
+            android:name=".osmmap.OSMActivity"
+            android:label="@string/app_name" >
+
+        </activity>
+
+    </application>
+
+</manifest>
